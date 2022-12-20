@@ -11,7 +11,7 @@
         System.out.println("El resultado es " + resultado);
     }
     //Primera parte del ejercicio
-        public static <c> int suma(int a, int b, int c){
+        public static int suma(int a, int b, int c){
         return a + b + c;
     }
      static class Coche {
